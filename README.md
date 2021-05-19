@@ -3,11 +3,11 @@
 # basic-api-server
 
 ## Author: Omar Ewies
-* [Tests Report]()
+* [Tests Report](https://github.com/oebitw/api-server/actions)
 
-* [Heroku Deployment]()
+* [Heroku Deployment](https://oebitw-api-server.herokuapp.com/)
 
-* [Pull Request]()
+* [Pull Request](https://github.com/oebitw/api-server/pull/1)
 
 ## Setup
 
@@ -27,6 +27,8 @@
 
 ### `/clothes`
 
+[https://oebitw-api-server.herokuapp.com/api/v1/clothes](https://oebitw-api-server.herokuapp.com/api/v1/clothes)
+
 * You can add clothes by sending post request using postman.
 
 * You can get the data for all the clothes by sending get request.
@@ -42,6 +44,8 @@
 
 
 ### `/food`
+
+[https://oebitw-api-server.herokuapp.com/api/v1/food](https://oebitw-api-server.herokuapp.com/api/v1/food)
 
 * You can add food by sending post request using postman.
 
